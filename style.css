@@ -58,7 +58,7 @@ abbr {
 	}
 
 header h1 { 
-	background: transparent url() no-repeat top left;
+	background: transparent url(LINUX.png) no-repeat top left;
 	margin-top: 10px;
 	display: block;
 	width: 219px;
