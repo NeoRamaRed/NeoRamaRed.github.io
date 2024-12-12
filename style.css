@@ -37,7 +37,7 @@ a:visited {
 	}
 a:hover, a:focus, a:active { 
 	text-decoration: underline; 
-	color: #9685BA;
+	color: #6ea2f5;
 	}
 abbr {
 	border-bottom: none;
@@ -162,8 +162,15 @@ footer a:link, footer a:visited {
 	list-style-type: none;
 	}
 .sidebar li a:link {
-	color: #988F5E;
+	color: #220d3b;
 	}
 .sidebar li a:visited {
 	color: #B3AE94;
 	}
+a:visited {
+    font-weight: bold;
+    text-decoration: none;
+    color: #220d3b;
+:root { scroll-behavior: smooth; }
+}
+
