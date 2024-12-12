@@ -45,13 +45,6 @@ abbr {
 
 
 /* specific divs */
-.page-wrapper { 
-	background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngkit.com%2Fpng%2Ffull%2F302-3029237_wishing-well-white-square-fade-png.png&f=1&nofb=1&ipt=75cd53cb227ee7ea9fd4080e91a435766e108ab4fba517832134f4d4047fca2a&ipo=images) no-repeat top left; 
-	padding: 0 175px 0 110px;  
-	margin: 0; 
-	position: relative;
-	}
-
 .intro { 
 	min-width: 470px;
 	width: 100%;
@@ -175,14 +168,4 @@ footer a:link, footer a:visited {
 	}
 .sidebar li a:visited {
 	color: #B3AE94;
-	}
-
-
-.extra1 {
-	background: transparent url(http://csszengarden.com/001/cr2.gif) top left no-repeat; 
-	position: absolute; 
-	top: 40px; 
-	right: 0; 
-	width: 148px; 
-	height: 110px;
 	}
